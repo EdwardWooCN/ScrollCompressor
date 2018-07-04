@@ -56,7 +56,8 @@
         
 #### 1) 平移变换和旋转变换
 >>>>>> ![图1-4 坐标变换new](https://github.com/hblvsjtu/ScrollCompressor/blob/master/picture/%E5%9B%BE1-4%20%E5%9D%90%E6%A0%87%E5%8F%98%E6%8D%A2new.png?raw=true)
-        
+> -P.S. 更详尽的推导见https://blog.csdn.net/csxiaoshui/article/details/65446125
+
 <h3 id='1.2'>1.2 面积积分和质心求解</h3> 
 
 #### 1) 三角形和曲线面元的推导
